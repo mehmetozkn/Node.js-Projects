@@ -1,2 +1,2 @@
 # Node.js-Projects
-My Node.js exercises
+My Node.js Exercises
